@@ -135,7 +135,7 @@ require (
 	github.com/jmespath/go-jmespath v0.4.0
 	github.com/jonboydell/logzio_client v1.2.0
 	github.com/labd/commercetools-go-sdk v0.3.1
-	github.com/linode/linodego v0.24.1
+	github.com/linode/linodego v1.8.1
 	github.com/microsoft/azure-devops-go-api/azuredevops v1.0.0-b5
 	github.com/mrparkers/terraform-provider-keycloak v0.0.0-20200506151941-509881368409
 	github.com/nicksnyder/go-i18n v1.10.1 // indirect
@@ -331,7 +331,7 @@ require (
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/ini.v1 v1.62.0 // indirect
+	gopkg.in/ini.v1 v1.66.6 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0 // indirect
