@@ -326,8 +326,8 @@ github.com/aws/aws-sdk-go-v2/service/ecs v1.2.1 h1:T8CKZFKySyOivXUc/80qlvNqvX9MQ
 github.com/aws/aws-sdk-go-v2/service/ecs v1.2.1/go.mod h1:7gzy9DNs3NWZnxJcV61X0EjhLzDuZm8uUA+moRIoiKs=
 github.com/aws/aws-sdk-go-v2/service/efs v1.2.1 h1:Cm/7OSlvQVPQpksrq7FYXw75Uv1D8++CA6tcWMb6y38=
 github.com/aws/aws-sdk-go-v2/service/efs v1.2.1/go.mod h1:4UVgbo/4cTvbn0Y+lU+Sq7gvNlY0zPbmn1JCqkGiyHs=
-github.com/aws/aws-sdk-go-v2/service/eks v1.2.1 h1:eNSGiZZKcrjT1/UlxOSL/v1gjR5bePJk4xMdGBZXd1o=
-github.com/aws/aws-sdk-go-v2/service/eks v1.2.1/go.mod h1:XGNXr+eBGsXebPMHCHHJEaOWaenvyybnUU+dsdKpDXg=
+github.com/aws/aws-sdk-go-v2/service/eks v1.21.4 h1:qmKWieiIiYwD46GRD6nxFc1KsyR0ChGRid8emb7rDEY=
+github.com/aws/aws-sdk-go-v2/service/eks v1.21.4/go.mod h1:Th2+t6mwi0bZayXUOFOTuyWR2nwRUVcadDy4WGE8C2E=
 github.com/aws/aws-sdk-go-v2/service/elasticache v1.2.1 h1:r2GU9mRLlZtKNQiB8A6LeKMlxG0BK/LXU+86uv3zUos=
 github.com/aws/aws-sdk-go-v2/service/elasticache v1.2.1/go.mod h1:H/CnUlHdpSJ6bi4PTZn7H046nY+OF0O1ItZGpOHbZ1s=
 github.com/aws/aws-sdk-go-v2/service/elasticbeanstalk v1.2.1 h1:ngD2ETQ+bmpE9dXIwpovAKfEqhK0SODf0EQDMY7qkMA=
