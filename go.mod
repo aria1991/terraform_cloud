@@ -24,7 +24,7 @@ require (
 	github.com/PaloAltoNetworks/pango v0.6.0
 	github.com/SAP/go-hdb v0.105.2 // indirect
 	github.com/SermoDigital/jose v0.9.1 // indirect
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1247
+	github.com/aliyun/alibaba-cloud-sdk-go v1.62.216
 	github.com/aliyun/aliyun-tablestore-go-sdk v4.1.2+incompatible
 	github.com/apache/openwhisk-client-go v0.0.0-20210106144548-17d556327cd3
 	github.com/aws/aws-sdk-go-v2 v1.16.7
@@ -355,6 +355,7 @@ require (
 	cloud.google.com/go/compute v1.3.0 // indirect
 	github.com/clbanning/mxj v1.8.4 // indirect
 	github.com/golang-jwt/jwt/v4 v4.3.0 // indirect
+	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b // indirect
 )
 
 replace gopkg.in/jarcoal/httpmock.v1 => github.com/jarcoal/httpmock v1.0.5
